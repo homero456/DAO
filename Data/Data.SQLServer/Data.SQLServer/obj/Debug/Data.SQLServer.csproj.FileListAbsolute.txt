@@ -1,0 +1,8 @@
+C:\repos\DAO\Data\Data.SQLServer\Data.SQLServer\bin\Debug\Data.SQLServer.dll
+C:\repos\DAO\Data\Data.SQLServer\Data.SQLServer\bin\Debug\Data.SQLServer.pdb
+C:\repos\DAO\Data\Data.SQLServer\Data.SQLServer\bin\Debug\Entities.dll
+C:\repos\DAO\Data\Data.SQLServer\Data.SQLServer\bin\Debug\Entities.pdb
+C:\repos\DAO\Data\Data.SQLServer\Data.SQLServer\obj\Debug\Data.SQLServer.csprojAssemblyReference.cache
+C:\repos\DAO\Data\Data.SQLServer\Data.SQLServer\obj\Debug\Data.SQLServer.csproj.CopyComplete
+C:\repos\DAO\Data\Data.SQLServer\Data.SQLServer\obj\Debug\Data.SQLServer.dll
+C:\repos\DAO\Data\Data.SQLServer\Data.SQLServer\obj\Debug\Data.SQLServer.pdb

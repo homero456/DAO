@@ -1,0 +1,5 @@
+C:\repos\DAO\Entities\Entities\bin\Debug\Entities.dll
+C:\repos\DAO\Entities\Entities\bin\Debug\Entities.pdb
+C:\repos\DAO\Entities\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\repos\DAO\Entities\Entities\obj\Debug\Entities.dll
+C:\repos\DAO\Entities\Entities\obj\Debug\Entities.pdb
